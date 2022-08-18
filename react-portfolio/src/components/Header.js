@@ -31,13 +31,7 @@ const Header = () => {
                         <Link to='#'>About</Link>
                     </li>
                     <li>
-                        <Link to='#'>Services</Link>
-                    </li>
-                    <li>
                         <Link to='#'>Projects</Link>
-                    </li>
-                    <li>
-                        <Link to='#'>Blog</Link>
                     </li>
                     <li>
                         <Link to='/contact'>Contact</Link>

@@ -12,11 +12,11 @@ const Contact = () => {
                 
             <form>
                 <label>Your Name</label>
-                <input type="text" placeholder='Enter Your Name'/>
+                <input type="text" placeholder='Enter Name'/>
                 <label>Email</label>
-                <input type="text" placeholder='Enter your Email' required/>
+                <input type="text" placeholder='Enter Email' required/>
                 <label>About You</label>
-                <input type="text" placeholder='e.g a Developer'/>
+                <input type="text" placeholder='Text'/>
                 <label>Message</label>
                 <textarea placeholder='e.g Hello' id="" cols="50" rows="7" required></textarea>
 
