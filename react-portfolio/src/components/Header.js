@@ -2,7 +2,6 @@ import { MenuOutlined } from '@material-ui/icons'
 import React,{useState} from 'react'
 import './styles/Header.css'
 import { Link } from 'react-router-dom'
-import Contact from './Contact'
 import { Data } from './Data'
 
 
