@@ -8,7 +8,7 @@ const Second = () => {
             <h1 className='about-me'>About Me</h1>
             <div className="container-2">
                 <div className="image-cont">
-                    <img src={project} alt="" />
+                    <img src={profile} alt="" />
                 </div>
 
                 <div className="text-2">
