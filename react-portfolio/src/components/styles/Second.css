@@ -6,7 +6,7 @@
     height: 100vh;
     background-color: black;
     border: 5px solid grey;
-    font-family: 'Poppins', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 .about-me {
@@ -45,7 +45,7 @@
         height: 100vh;
         background-color: black;
         border: 5px solid grey;
-        font-family: 'Poppins', sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
     
     }
     .about-me {
